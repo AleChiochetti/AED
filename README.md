@@ -2,10 +2,10 @@
 
 • *Curso: K1051*
 
-• Año de cursada: 2022 Anual
+• *Año de cursada: 2022 Anual*
 
-• Legajo: 2026788
+• *Legajo: 2026788*
 
-• Apellido: Chiochetti
+• *Apellido: Chiochetti*
 
-• Nombre: Alejo
+• *Nombre: Alejo*
