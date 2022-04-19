@@ -1,6 +1,6 @@
 # Algoritmos y Estructuras de Datos
 
-• Curso: K1051
+• *Curso: K1051*
 
 • Año de cursada: 2022 Anual
 
